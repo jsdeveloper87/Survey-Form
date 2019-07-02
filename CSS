@@ -1,0 +1,128 @@
+body {
+  background-color: lightblue;
+  font-arial;
+}
+
+#title {
+  text-align: center;
+  font-size: 35px;
+  color: black;
+  margin-top: 20px;
+}
+
+.form-background {
+  height: 950px;
+  width: 950px;
+  background-color: azure;
+  margin-left: 200px;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding-top: 30px;
+  margin-bottom: 10px;
+}
+
+#description {
+  text-align: center;
+}
+
+#name-label, #email-label, #number-label {
+  margin-left: 380px;
+}
+
+#name, #email, #number {
+  margin-left: 20px;
+  width: 280px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+#email {
+  margin-left: 25px;
+}
+
+#number {
+  margin-left: 34.5px;
+}
+
+#role-label {
+  margin-left: 95px;
+}
+
+#dropdown {
+  margin-top: 10px;
+  width: 130px;
+  height: 35px;
+  margin-left: 28px;
+}
+
+#recommend-label {
+  margin-left: 125px;
+  margin-top: 10px;
+  height: 60px;
+}
+
+#definitely-span, #maybe-span, #not-sure-span {
+  margin-left: 10px;
+}
+
+.radio-list {
+  margin-left: 290px;
+  list-style: none;
+  margin-top: -45px;
+  height: 50px;
+}
+
+#FCC-label {
+  margin-left: 90px;
+  margin-top: 40px;
+}
+
+#FCC-dropdown {
+  margin-top: 10px;
+  width: 134px;
+  height: 36px;
+  margin-left: 26px;
+}
+
+#improved-label {
+  margin-left: -10px;
+  margin-top: 10px;
+}
+
+#check {
+  margin-left: 165px;
+}
+
+.improved-list {
+  margin-left: 290px;
+  list-style: none;
+  margin-top: -50px;
+}
+
+.improved-list-item {
+  margin-top: -5px;
+}
+
+#comments-label {
+  margin-left: 80px;
+  margin-top: 10px;
+}
+
+#comments-textarea {
+  margin-top: 5px;
+  margin-left: 25px;
+  height: 70px;
+  width: 300px;
+  position: absolute;
+}
+
+#submit {
+  margin-top: 70px;
+  margin-left: 300px;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+  background-color: aqua;
+  color: white;
+}
+
